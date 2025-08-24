@@ -1,37 +1,4 @@
 # -------------------
-# Retype Pro
-# -------------------
-
-poweredByRetype: false
-
-outbound:
-    enabled: true
-    icon: ""
-
-breadcrumb:
-    enabled: true
-    home: false
-
-toc:
-    depth: 2
-
-hub:
-    link: https://workleap.github.io/wl-idp-docs-hub/
-    alt: Workleap's Frontend Platform homepage
-
-nav:
-    mode: stack
-    icons:
-        mode: none
-
-theme:
-    base:
-        nav-badge-margin-left: 0.75rem
-
-start:
-    pro: true
-
-# -------------------
 # Retype
 # -------------------
 
