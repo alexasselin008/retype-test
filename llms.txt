@@ -1,8 +1,7 @@
+
 # Logging - Documentation for LLMs
 
 > Test Retype site to test my new action
 
-
 For complete documentation in a single file, see [Full Documentation](https:/alexasselin008.github.io/retype-test/llms-full.txt).
-
 
