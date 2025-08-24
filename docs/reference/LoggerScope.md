@@ -3,8 +3,6 @@ order: 70
 label: LoggerScope
 meta:
     title: LoggerScope
-toc:
-    depth: 2-3
 ---
 
 # LoggerScope

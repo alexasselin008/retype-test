@@ -3,8 +3,6 @@ order: 100
 label: BrowserConsoleLogger
 meta:
     title: BrowserConsoleLogger
-toc:
-    depth: 2-3
 ---
 
 # BrowserConsoleLogger

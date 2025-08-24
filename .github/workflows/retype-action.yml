@@ -21,6 +21,7 @@ jobs:
             dotnet-version: 9.0.x
 
         - uses: retypeapp/action-build@latest
+          id: retype-build
 
         - id: repo_meta
           name: Get repository description
@@ -35,6 +36,7 @@ jobs:
           with:
             verbose: true
             description: ${{ steps.repo_meta.outputs.description }}
+            output: ${{ steps.retype-build.outputs.retype-output-path}}
 
         - uses: retypeapp/action-github-pages@latest
           with:

@@ -3,8 +3,6 @@ order: 60
 label: createCompositeLogger
 meta:
     title: createCompositeLogger
-toc:
-    depth: 2-3
 ---
 
 # createCompositeLogger

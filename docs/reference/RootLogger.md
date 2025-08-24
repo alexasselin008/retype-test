@@ -3,8 +3,6 @@ order: 80
 label: RootLogger
 meta:
     title: RootLogger
-toc:
-    depth: 2-3
 ---
 
 # RootLogger
