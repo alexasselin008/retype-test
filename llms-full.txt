@@ -1,10 +1,4 @@
 # Logging - Documentation for LLMs
 
-
- >Test Retype site to test my new action
-
-
-
-For complete documentation in a single file, see [Full Documentation](https://workleap.github.io/wl-logging//llms-full.txt).
-
+> Test Retype site to test my new action
 
