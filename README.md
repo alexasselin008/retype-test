@@ -17,7 +17,7 @@ To ask a question or propose an idea, feel free to start a new [discussion](http
 
 ## Documentation
 
-View the [user's documentation](https://workleap.github.io/wl-logging/).
+View the [user's documentation](https://alexasselin008.github.io/retype-test).
 
 ## 🤝 Contributing
 

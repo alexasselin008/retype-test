@@ -5,7 +5,7 @@
 input: ./docs
 output: .retype
 
-url: https://workleap.github.io/wl-logging/
+url: https://alexasselin008.github.io/retype-test/
 
 branding:
     title: "Logging"
